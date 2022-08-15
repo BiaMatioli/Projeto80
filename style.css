@@ -1,0 +1,13 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+input {
+    margin: 10px;
+}
+
+#organizar {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: none;
+}
